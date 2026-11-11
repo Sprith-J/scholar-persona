@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="scholar-mode" content="live">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find your intellectual kindred spirit through the questions, methods, and patterns in your research.">
+  <meta name="theme-color" content="#ffffff">
+  <title>Scholar Persona — Find your kindred mind</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="./editorial-serif.woff" as="font" type="font/woff" crossorigin>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="wordmark" href="./" aria-label="Scholar Persona home">Scholar Persona<span class="brand-period">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#method" class="method-link" data-i18n="method">The idea</a>
+        <div class="language-switch" role="group" aria-label="Language">
+          <button id="lang-en" type="button" lang="en" aria-pressed="true">EN</button>
+          <span aria-hidden="true">/</span>
+          <button id="lang-zh" type="button" lang="zh-CN" aria-pressed="false">中文</button>
+        </div>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1">
+      <section id="home" class="home-view">
+        <h1 id="home-heading" data-i18n-html="heading">Who thinks<br><em>like you?</em></h1>
+        <p class="home-deck" data-i18n="deck">Your research has a character of its own.<br>Meet a mind from history that shares it.</p>
+        <form id="search-form" class="search-form">
+          <label for="researcher" data-i18n="inputLabel">Researcher name or profile</label>
+          <div class="input-row">
+            <input id="researcher" name="researcher" type="text" maxlength="500" autocomplete="off" spellcheck="false" placeholder="Your name, Scholar profile, or ORCID" required aria-describedby="input-help search-error">
+            <button id="search-button" class="primary" type="submit"><span data-i18n="find">Find my kindred mind</span><svg aria-hidden="true" viewBox="0 0 20 20"><path d="M3 10h13m-5-5 5 5-5 5"/></svg></button>
+          </div>
+          <p id="input-help" class="visually-hidden" data-i18n="inputHelp">Enter a name, Google Scholar, ORCID, or OpenAlex profile.</p>
+          <p id="search-error" class="error" role="alert" hidden></p>
+        </form>
+        <p id="demo-note" class="demo-note" data-i18n="demoNote" hidden>Explore three research portraits. Live generation is available in the source project.</p>
+        <div id="examples" class="examples" hidden><span data-i18n="tryExample">Or explore a real portrait:</span><div id="example-links"></div></div>
+        <a id="recent-link" class="recent-link" href="#" hidden></a>
+        <section id="candidate-view" class="candidate-view" hidden aria-labelledby="candidate-heading">
+          <div class="section-heading"><h2 id="candidate-heading" data-i18n="choose">Which researcher is you?</h2><button id="clear-results" class="text-button" type="button" data-i18n="dismiss">Dismiss</button></div>
+          <p id="identity-note" class="small-note" hidden></p>
+          <p id="no-candidates" hidden data-i18n="noCandidates">No researchers found. Try a full name or an ORCID.</p>
+          <div id="candidate-list"></div>
+        </section>
+        <section id="method" class="method-section">
+          <h2 data-i18n="methodHeading">A likeness, with footnotes.</h2>
+          <div class="method-copy">
+            <p data-i18n="methodCopy">We look at how you ask questions, build tools, and weigh evidence. A selection of your papers and available abstracts connects your approach to a mind from history, with sources you can explore.</p>
+          </div>
+        </section>
+      </section>
+      <section id="loading" class="loading-view" hidden aria-live="polite" aria-atomic="true" aria-labelledby="loading-heading">
+        <h1 id="loading-heading" data-i18n-html="loadingHeading">Reading between<br><em>the papers.</em></h1>
+        <p id="loading-name" class="loading-name"></p>
+        <div class="reading-rule" aria-hidden="true"><span></span></div>
+        <p id="loading-stage" class="loading-stage"></p>
+        <p id="loading-detail" class="small-note"></p>
+      </section>
+      <article id="report" class="report-view" hidden></article>
+    </main>
+    <footer class="site-footer"><span>Scholar Persona</span><a href="https://github.com/Sprith-J/scholar-persona" target="_blank" rel="noopener noreferrer" data-i18n="viewSource">Source on GitHub</a></footer>
+  </div>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>

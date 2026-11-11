@@ -1,0 +1,1150 @@
+{
+  "id": "adb6d6a0-b545-4d11-8f32-e5df9f373f7d",
+  "schema": "scholar-report-0.1",
+  "createdAt": "2026-11-11T10:17:02.140Z",
+  "url": "/report/adb6d6a0-b545-4d11-8f32-e5df9f373f7d",
+  "author": {
+    "id": "A5066728260",
+    "name": "Terence Tao",
+    "institutions": [
+      "University of California, Los Angeles"
+    ],
+    "worksCount": 673,
+    "orcid": "https://orcid.org/0000-0002-0140-7641",
+    "topics": [
+      "Limits and Structures in Graph Theory",
+      "Analytic Number Theory Research",
+      "Advanced Harmonic Analysis Research"
+    ],
+    "source": "https://openalex.org/A5066728260"
+  },
+  "corpus": {
+    "source": "OpenAlex",
+    "indexedWorks": 673,
+    "fetchedRecords": 60,
+    "sampledWorks": 24,
+    "withAbstract": 22,
+    "yearStart": 1998,
+    "yearEnd": 2026,
+    "sampling": "Up to 30 most-cited and 30 newest records; deduplicated; up to 24 papers mixing influential, recent, and topic-diverse work. Retracted works are excluded."
+  },
+  "papers": [
+    {
+      "id": "W2145096794",
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "year": 2006,
+      "doi": "https://doi.org/10.1109/tit.2005.862083",
+      "url": "https://openalex.org/W2145096794",
+      "citedBy": 15628,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2145096794",
+      "topics": [
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Numerical methods in inverse problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "IEEE Transactions on Information Theory",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 3,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2129131372",
+      "title": "Decoding by Linear Programming",
+      "year": 2005,
+      "doi": "https://doi.org/10.1109/tit.2005.858979",
+      "url": "https://openalex.org/W2129131372",
+      "citedBy": 7141,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2129131372",
+      "topics": [
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Numerical methods in inverse problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "IEEE Transactions on Information Theory",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2164452299",
+      "title": "Stable signal recovery from incomplete and inaccurate measurements",
+      "year": 2006,
+      "doi": "https://doi.org/10.1002/cpa.20124",
+      "url": "https://openalex.org/W2164452299",
+      "citedBy": 7039,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2164452299",
+      "topics": [
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Numerical methods in inverse problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Communications on Pure and Applied Mathematics",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 3,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2129638195",
+      "title": "Near-Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?",
+      "year": 2006,
+      "doi": "https://doi.org/10.1109/tit.2006.885507",
+      "url": "https://openalex.org/W2129638195",
+      "citedBy": 6816,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2129638195",
+      "topics": [
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Numerical methods in inverse problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "IEEE Transactions on Information Theory",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W403935824",
+      "title": "The Dantzig selector: Statistical estimation when p is much larger than n",
+      "year": 2007,
+      "doi": "https://doi.org/10.1214/009053606000001523",
+      "url": "https://openalex.org/W403935824",
+      "citedBy": 3212,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W403935824",
+      "topics": [
+        {
+          "name": "Statistical Methods and Inference",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Statistical Methods and Models",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "The Annals of Statistics",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2134332047",
+      "title": "The Power of Convex Relaxation: Near-Optimal Matrix Completion",
+      "year": 2010,
+      "doi": "https://doi.org/10.1109/tit.2010.2044061",
+      "url": "https://openalex.org/W2134332047",
+      "citedBy": 2111,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2134332047",
+      "topics": [
+        {
+          "name": "Sparse and Compressive Sensing Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Statistical Methods and Inference",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Stochastic Gradient Optimization Techniques",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "IEEE Transactions on Information Theory",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2102327241",
+      "title": "Endpoint Strichartz estimates",
+      "year": 1998,
+      "doi": "https://doi.org/10.1353/ajm.1998.0039",
+      "url": "https://openalex.org/W2102327241",
+      "citedBy": 1804,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2102327241",
+      "topics": [
+        {
+          "name": "Advanced Mathematical Physics Problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Stability and Controllability of Differential Equations",
+          "field": "Engineering",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Harmonic Analysis Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "American Journal of Mathematics",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W602904462",
+      "title": "Topics in Random Matrix Theory",
+      "year": 2012,
+      "doi": "https://doi.org/10.1090/gsm/132",
+      "url": "https://openalex.org/W602904462",
+      "citedBy": 924,
+      "type": "book",
+      "abstractSource": "https://openalex.org/W602904462",
+      "topics": [
+        {
+          "name": "Random Matrices and Applications",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Spectral Theory in Mathematical Physics",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Quantum chaos and dynamical systems",
+          "field": "Physics and Astronomy",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Graduate studies in mathematics",
+      "authorPosition": "first",
+      "corresponding": true,
+      "authorsCount": 1,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225407242",
+      "title": "The Mathematics of the Pioneers and Creators of Technologies",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23994432",
+      "url": "https://openalex.org/W7225407242",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7225407242",
+      "topics": [
+        {
+          "name": "History and Theory of Mathematics",
+          "field": "Arts and Humanities",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Historical Studies and Socio-cultural Analysis",
+          "field": "Arts and Humanities",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "History of Science and Medicine",
+          "field": "Arts and Humanities",
+          "domain": "Social Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 60,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225237727",
+      "title": "Collection of Nutrition Facts Sheets",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23936364",
+      "url": "https://openalex.org/W7225237727",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7225237727",
+      "topics": [
+        {
+          "name": "Consumer Attitudes and Food Labeling",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Nutrition, Health and Food Behavior",
+          "field": "Nursing",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Food Nutrient Composition and Product Development",
+          "field": "Agricultural and Biological Sciences",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 61,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225204113",
+      "title": "Google Cloud Storage Management",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23930414",
+      "url": "https://openalex.org/W7225204113",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7225204113",
+      "topics": [
+        {
+          "name": "Cloud Computing and Resource Management",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Data Storage Technologies",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Cloud Data Security Solutions",
+          "field": "Computer Science",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 59,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225108512",
+      "title": "Annual Return Reports",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23897070",
+      "url": "https://openalex.org/W7225108512",
+      "citedBy": 0,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7225108512",
+      "topics": [],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 54,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225055308",
+      "title": "Greating The German Community",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23851079",
+      "url": "https://openalex.org/W7225055308",
+      "citedBy": 0,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7225055308",
+      "topics": [],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 53,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7224744410",
+      "title": "The Power of Lobbying and Information System Reinforcement",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23819398",
+      "url": "https://openalex.org/W7224744410",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7224744410",
+      "topics": [
+        {
+          "name": "Information Technology Governance and Strategy",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Information Systems Theories and Implementation",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Political Influence and Corporate Strategies",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 51,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7224320888",
+      "title": "Chemicals Notes and Oxidations Manuscript",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23774285",
+      "url": "https://openalex.org/W7224320888",
+      "citedBy": 0,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7224320888",
+      "topics": [
+        {
+          "name": "Various Chemistry Research Topics",
+          "field": "Social Sciences",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Chemistry Education and Research",
+          "field": "Social Sciences",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Oxidative Organic Chemistry Reactions",
+          "field": "Chemistry",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 52,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7224090056",
+      "title": "Short Communication on Samsung Business Offerings",
+      "year": 2026,
+      "doi": "https://doi.org/10.5281/zenodo.23744711",
+      "url": "https://openalex.org/W7224090056",
+      "citedBy": 0,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7224090056",
+      "topics": [
+        {
+          "name": "Marketing and Advertising Strategies",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Business Strategies and Innovation",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        },
+        {
+          "name": "Legal Systems and Institutions",
+          "field": "Business, Management and Accounting",
+          "domain": "Social Sciences"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 51,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2912209775",
+      "title": "Additive Combinatorics",
+      "year": 2006,
+      "doi": "https://doi.org/10.1017/cbo9780511755149",
+      "url": "https://openalex.org/W2912209775",
+      "citedBy": 904,
+      "type": "book",
+      "abstractSource": "https://openalex.org/W2912209775",
+      "topics": [
+        {
+          "name": "Limits and Structures in Graph Theory",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Analytic Number Theory Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Combinatorial Mathematics",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "authorPosition": "first",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2097673562",
+      "title": "The primes contain arbitrarily long arithmetic progressions",
+      "year": 2008,
+      "doi": "https://doi.org/10.4007/annals.2008.167.481",
+      "url": "https://openalex.org/W2097673562",
+      "citedBy": 839,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2097673562",
+      "topics": [
+        {
+          "name": "Analytic Number Theory Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Limits and Structures in Graph Theory",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Topology and Set Theory",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Annals of Mathematics",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W3040464464",
+      "title": "Orthogonal polynomials",
+      "year": 2022,
+      "doi": "https://doi.org/10.1017/9781009230063.045",
+      "url": "https://openalex.org/W3040464464",
+      "citedBy": 590,
+      "type": "book-chapter",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Mathematical functions and polynomials",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Combinatorial Mathematics",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W1664429083",
+      "title": "The honeycomb model of $GL_n(\\mathbb C)$ tensor products I: Proof of the saturation conjecture",
+      "year": 1999,
+      "doi": "https://doi.org/10.1090/s0894-0347-99-00299-4",
+      "url": "https://openalex.org/W1664429083",
+      "citedBy": 496,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W1664429083",
+      "topics": [
+        {
+          "name": "Advanced Combinatorial Mathematics",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Algebra and Geometry",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Algebraic structures and combinatorial models",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Journal of the American Mathematical Society",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 2,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2009600348",
+      "title": "Fuglede’s conjecture is false in 5 and higher dimensions",
+      "year": 2004,
+      "doi": "https://doi.org/10.4310/mrl.2004.v11.n2.a8",
+      "url": "https://openalex.org/W2009600348",
+      "citedBy": 390,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2009600348",
+      "topics": [
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Spectral Theory in Mathematical Physics",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Analytic Number Theory Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Mathematical Research Letters",
+      "authorPosition": "first",
+      "corresponding": true,
+      "authorsCount": 1,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W357046174",
+      "title": "An Introduction to Measure Theory",
+      "year": 2011,
+      "doi": "https://doi.org/10.1090/gsm/126",
+      "url": "https://openalex.org/W357046174",
+      "citedBy": 366,
+      "type": "book",
+      "abstractSource": "https://openalex.org/W357046174",
+      "topics": [
+        {
+          "name": "Mathematical and Theoretical Analysis",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Probability and Statistical Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Banach Space Theory",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Graduate studies in mathematics",
+      "authorPosition": "first",
+      "corresponding": true,
+      "authorsCount": 1,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2164774824",
+      "title": "On the multilinear restriction and Kakeya conjectures",
+      "year": 2006,
+      "doi": "https://doi.org/10.1007/s11511-006-0006-4",
+      "url": "https://openalex.org/W2164774824",
+      "citedBy": 297,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2164774824",
+      "topics": [
+        {
+          "name": "Advanced Harmonic Analysis Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Mathematical Analysis and Transform Methods",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Mathematical Physics Problems",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Acta Mathematica",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 3,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W1969498847",
+      "title": "The Brascamp–Lieb Inequalities: Finiteness, Structure and Extremals",
+      "year": 2007,
+      "doi": "https://doi.org/10.1007/s00039-007-0619-6",
+      "url": "https://openalex.org/W1969498847",
+      "citedBy": 269,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Mathematical Inequalities and Applications",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Geometric Analysis and Curvature Flows",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Harmonic Analysis Research",
+          "field": "Mathematics",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Geometric and Functional Analysis",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 4,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    }
+  ],
+  "narrative": {
+    "schema": "scholar-portrait-0.1",
+    "field": {
+      "en": "Harmonic analysis, probability, combinatorics and the mathematical foundations of signal recovery, with a side habit of writing expository texts.",
+      "zh": "调和分析、概率论、组合数学与信号恢复的数学基础，并兼有撰写教材式阐释的习惯。"
+    },
+    "theme": {
+      "en": "Turning a hard problem into a convex, certificate-bearing one, then proving the reduction is sharp.",
+      "zh": "把难题转化为带证书的凸问题，再证明这种转化已达最优。"
+    },
+    "lead": {
+      "en": "These papers repeatedly take an apparently impossible inverse problem—recover a signal from too few, noisy, or corrupted measurements—and show that a simple convex program succeeds, then pin down the thresholds where it must. The same move recurs from sparse recovery and the Dantzig selector to nuclear-norm matrix completion, always with constants, probabilities, and near-optimality. A separate strand builds abstract machinery, such as Strichartz estimates or transference principles, as reusable tools for other problems. The habit is constructive reduction plus honest accounting of limits.",
+      "zh": "这批论文反复处理一类看似不可能的逆问题——从过少、含噪或受损的测量中恢复信号——先证明一个简单的凸规划即可成功，再精确刻画它必然奏效的阈值。从稀疏恢复、Dantzig选择子到核范数矩阵补全，这一手法不断重现，并总伴随显式常数、概率界与近最优性。另一条线索则搭建抽象工具，如Strichartz估计或转移原理，供别的问题复用。其习惯是构造性的归约，并如实交代边界。"
+    },
+    "person": {
+      "name": {
+        "en": "Jean-Baptiste Joseph Fourier",
+        "zh": "让-巴蒂斯特·约瑟夫·傅里叶"
+      },
+      "wikiTitle": "Joseph_Fourier",
+      "connection": {
+        "en": "Fourier's practice was to recast a physical problem in a new representation—trigonometric series—and then argue that the representation is general and that coefficients determine the object. These papers do the inverse: they ask how few Fourier or random linear measurements suffice, and prove exact or stable recovery with thresholds. The shared intellectual move is treating a transform as an analytic instrument whose completeness and limits can be quantified.",
+        "zh": "傅里叶的做法是把物理问题换到一种新表示——三角级数——再论证这种表示具有普遍性、系数决定对象。这批论文走的是反方向：追问需要多少个傅里叶测量或随机线性测量才够，并给出精确或稳定恢复的阈值。共同的思想动作是把一种变换当作可被量化其完备性与极限的分析仪器。"
+      },
+      "paperIds": [
+        "W2145096794",
+        "W2129638195",
+        "W2164452299"
+      ],
+      "boundary": {
+        "en": "Fourier sought a universal representation for arbitrary functions; these papers instead exploit sparsity or low rank, so recovery depends on a structural prior that Fourier's program did not require.",
+        "zh": "傅里叶追求对任意函数的普遍表示；这批论文则利用稀疏性或低秩，恢复依赖某种结构先验，这是傅里叶纲领所不需要的。"
+      }
+    },
+    "traits": [
+      {
+        "title": {
+          "en": "Convex relaxation with matching lower bounds",
+          "zh": "凸松弛与配套下界"
+        },
+        "body": {
+          "en": "The sparse-recovery and matrix-completion papers do not merely propose a tractable program; each pairs it with an information-theoretic benchmark. Sparse spikes are recovered from about |T| log N frequencies and no method can do much better; low-rank matrices are recovered near the sampling limit. This pairing of algorithm and impossibility is the signature.",
+          "zh": "稀疏恢复与矩阵补全的论文不只是提出可计算的程序，而是各自配上信息论基准。稀疏尖峰从约 |T| log N 个频率中恢复，任何方法都难以更好；低秩矩阵的恢复也逼近采样极限。算法与不可能性成对出现，是最鲜明的标志。"
+        },
+        "paperIds": [
+          "W2145096794",
+          "W2134332047",
+          "W2164452299"
+        ]
+      },
+      {
+        "title": {
+          "en": "From exact to stable, noisy, adversarial",
+          "zh": "从精确到稳定、含噪、对抗"
+        },
+        "body": {
+          "en": "A first exact-recovery theorem is soon extended: noise gives error within the noise level, gross corruption is handled by ℓ1 decoding, and the Dantzig selector bounds estimation error against an oracle. The pattern is to stress-test the clean theorem until it resembles a real measurement channel, while keeping nonasymptotic constants.",
+          "zh": "精确恢复定理很快被推广：噪声下误差不超过噪声水平，大量损坏由 ℓ1 译码处理，Dantzig选择子则给出相对理想情形的估计误差界。其模式是不断对干净定理施压，直到它接近真实测量通道，同时保留非渐近常数。"
+        },
+        "paperIds": [
+          "W2164452299",
+          "W2129131372",
+          "W403935824"
+        ]
+      },
+      {
+        "title": {
+          "en": "Abstract estimates as reusable instruments",
+          "zh": "把抽象估计做成可复用仪器"
+        },
+        "body": {
+          "en": "The endpoint Strichartz work proves an abstract estimate that yields several concrete cases at once, and the primes paper isolates a transference principle as the new engine. Likewise the multilinear restriction paper replaces a hard conjecture with a controlled multilinear analogue. The recurring style is to find the right general statement that makes many instances fall out.",
+          "zh": "端点Strichartz工作证明一个抽象估计，一次给出多个具体情形；素数论文则把转移原理提炼为新引擎。多线性限制性论文同样用受控的多线性版本替代困难猜想。反复出现的风格是找到恰当的一般陈述，使许多实例自然落出。"
+        },
+        "paperIds": [
+          "W2102327241",
+          "W2097673562",
+          "W2164774824"
+        ]
+      }
+    ],
+    "alternatives": [
+      {
+        "name": {
+          "en": "Norbert Wiener",
+          "zh": "诺伯特·维纳"
+        },
+        "wikiTitle": "Norbert_Wiener",
+        "reason": {
+          "en": "Wiener also worked across harmonic analysis, probability and engineering-style filtering, but pursued continuous-time prediction and control rather than sparse convex recovery. A secondary fit because the bridge to practice differs.",
+          "zh": "维纳同样横跨调和分析、概率与工程式滤波，但重心在连续时间预测与控制，而非稀疏凸恢复。作为次选，因为通往实践之桥不同。"
+        },
+        "paperIds": [
+          "W2145096794",
+          "W602904462"
+        ]
+      },
+      {
+        "name": {
+          "en": "George Dantzig",
+          "zh": "乔治·丹齐格"
+        },
+        "wikiTitle": "George_Dantzig",
+        "reason": {
+          "en": "Dantzig built linear programming as a practical optimization instrument; these papers repeatedly end in a linear or convex program. Secondary because Dantzig's contribution is the solver, not the recovery thresholds.",
+          "zh": "丹齐格把线性规划建成实用的优化工具；这批论文反复归结为线性或凸规划。列为次选，因为丹齐格的贡献在求解器，而非恢复阈值。"
+        },
+        "paperIds": [
+          "W403935824",
+          "W2129131372"
+        ]
+      }
+    ],
+    "scope": {
+      "en": "This reading rests on 24 sampled works with abstracts for 22; the recent multi-author preprint cluster is off-topic and excluded from interpretation.",
+      "zh": "本解读基于抽样的24篇作品，其中22篇有摘要；近期多作者预印本群与主题无关，未纳入解读。"
+    }
+  },
+  "generation": {
+    "mode": "ai",
+    "model": "deepseek-flash"
+  },
+  "historicalSources": [
+    {
+      "name": {
+        "en": "Jean-Baptiste Joseph Fourier",
+        "zh": "让-巴蒂斯特·约瑟夫·傅里叶"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "Joseph Fourier",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fourier",
+        "wikidata": "Q8772",
+        "checkedAt": "2026-11-11T10:17:01.696Z"
+      }
+    },
+    {
+      "name": {
+        "en": "Norbert Wiener",
+        "zh": "诺伯特·维纳"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "Norbert Wiener",
+        "url": "https://en.wikipedia.org/wiki/Norbert_Wiener",
+        "wikidata": "Q178577",
+        "checkedAt": "2026-11-11T10:17:02.140Z"
+      }
+    },
+    {
+      "name": {
+        "en": "George Dantzig",
+        "zh": "乔治·丹齐格"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "George Dantzig",
+        "url": "https://en.wikipedia.org/wiki/George_Dantzig",
+        "wikidata": "Q337040",
+        "checkedAt": "2026-11-11T10:17:01.959Z"
+      }
+    }
+  ],
+  "personProfile": {
+    "version": 2,
+    "qid": "Q8772",
+    "name": {
+      "en": "Joseph Fourier",
+      "zh": "约瑟夫·傅里叶"
+    },
+    "introduction": {
+      "en": "French mathematician and physicist",
+      "zh": "法国数学家、物理学家"
+    },
+    "birthYear": 1768,
+    "deathYear": 1830,
+    "notableWorks": [
+      {
+        "id": "Q179467",
+        "name": {
+          "en": "Fourier series",
+          "zh": "傅里叶级数"
+        },
+        "description": {
+          "en": "decomposition of periodic functions into sums of simpler sinusoidal forms",
+          "zh": "將周期函數分解為更簡單的正弦形式的和"
+        },
+        "url": "https://www.wikidata.org/wiki/Q179467"
+      },
+      {
+        "id": "Q6520159",
+        "name": {
+          "en": "Fourier transform",
+          "zh": "傅里叶变换"
+        },
+        "description": {
+          "en": "mathematical transform that expresses a function of time as a function of frequency",
+          "zh": "線性積分轉換"
+        },
+        "url": "https://www.wikidata.org/wiki/Q6520159"
+      },
+      {
+        "id": "Q6510488",
+        "name": {
+          "en": "heat equation",
+          "zh": "熱傳導方程式"
+        },
+        "description": {
+          "en": "partial differential equation for distribution of heat in a given region over time",
+          "zh": ""
+        },
+        "url": "https://www.wikidata.org/wiki/Q6510488"
+      }
+    ],
+    "awards": [
+      {
+        "name": {
+          "en": "Grand prix des sciences mathématiques",
+          "zh": ""
+        },
+        "year": 1812,
+        "url": "https://www.wikidata.org/wiki/Q20723338",
+        "source": "Wikidata",
+        "kind": "award"
+      },
+      {
+        "name": {
+          "en": "Officer of the Legion of Honour",
+          "zh": "法国荣誉军团军官勋章"
+        },
+        "year": 1804,
+        "url": "https://www.wikidata.org/wiki/Q10855195",
+        "source": "Wikidata",
+        "kind": "award"
+      },
+      {
+        "name": {
+          "en": "Foreign Member of the Royal Society",
+          "zh": "英国皇家学会外籍会员"
+        },
+        "year": 1823,
+        "url": "https://www.wikidata.org/wiki/Q14906020",
+        "source": "Wikidata",
+        "kind": "award"
+      }
+    ],
+    "sourceUrl": "https://www.wikidata.org/wiki/Q8772",
+    "portrait": {
+      "url": "/example-assets/Q8772.jpg",
+      "mime": "image/jpeg",
+      "width": 480,
+      "height": 607,
+      "file": "Fourier2.jpg",
+      "artist": "Julien-Léopold Boilly",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fourier2.jpg",
+      "originUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fourier2.jpg/500px-Fourier2.jpg",
+      "title": "Portrait of Joseph Fourier",
+      "checkedAt": "2026-11-11T10:44:07.797Z"
+    },
+    "sourceStatus": {
+      "labels": "checked",
+      "nobel": "checked"
+    },
+    "biographyUrl": "https://en.wikipedia.org/wiki/Joseph_Fourier",
+    "checkedAt": "2026-11-11T10:44:07.798Z",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q8772",
+      "https://api.nobelprize.org/2.1/laureates?name=Joseph+Fourier&limit=20"
+    ],
+    "biographyFactsVersion": 1
+  },
+  "isExample": true
+}

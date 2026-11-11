@@ -1,0 +1,1148 @@
+{
+  "id": "8d9ce486-ab22-4904-bc5c-f991d15eb220",
+  "schema": "scholar-report-0.1",
+  "createdAt": "2026-11-11T10:27:12.974Z",
+  "url": "/report/8d9ce486-ab22-4904-bc5c-f991d15eb220",
+  "author": {
+    "id": "A5014360828",
+    "name": "Karl A. Deisseroth",
+    "institutions": [
+      "Howard Hughes Medical Institute",
+      "Stanford Medicine",
+      "University of Pennsylvania"
+    ],
+    "worksCount": 705,
+    "orcid": "https://orcid.org/0000-0001-9440-3967",
+    "topics": [
+      "Neuroscience and Neuropharmacology Research",
+      "Photoreceptor and optogenetics research",
+      "Neurotransmitter Receptor Influence on Behavior"
+    ],
+    "source": "https://openalex.org/A5014360828"
+  },
+  "corpus": {
+    "source": "OpenAlex",
+    "indexedWorks": 619,
+    "fetchedRecords": 60,
+    "sampledWorks": 24,
+    "withAbstract": 17,
+    "yearStart": 1996,
+    "yearEnd": 2026,
+    "sampling": "Up to 30 most-cited and 30 newest records; deduplicated; up to 24 papers mixing influential, recent, and topic-diverse work. Retracted works are excluded."
+  },
+  "papers": [
+    {
+      "id": "W2167095271",
+      "title": "Millisecond-timescale, genetically targeted optical control of neural activity",
+      "year": 2005,
+      "doi": "https://doi.org/10.1038/nn1525",
+      "url": "https://openalex.org/W2167095271",
+      "citedBy": 5030,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnn1525%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Photoreceptor and optogenetics research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neural Engineering",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature Neuroscience",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 5,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2047347093",
+      "title": "Parvalbumin neurons and gamma rhythms enhance cortical circuit performance",
+      "year": 2009,
+      "doi": "https://doi.org/10.1038/nature07991",
+      "url": "https://openalex.org/W2047347093",
+      "citedBy": 2677,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnature07991%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 4,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2149561999",
+      "title": "Driving fast-spiking cells induces gamma rhythm and controls sensory responses",
+      "year": 2009,
+      "doi": "https://doi.org/10.1038/nature08002",
+      "url": "https://openalex.org/W2149561999",
+      "citedBy": 2665,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnature08002%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": true,
+      "authorsCount": 8,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2072652550",
+      "title": "Neocortical excitation/inhibition balance in information processing and social dysfunction",
+      "year": 2011,
+      "doi": "https://doi.org/10.1038/nature10360",
+      "url": "https://openalex.org/W2072652550",
+      "citedBy": 2517,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Schizophrenia research and treatment",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 16,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W2076507262",
+      "title": "Structural and molecular interrogation of intact biological systems",
+      "year": 2013,
+      "doi": "https://doi.org/10.1038/nature12107",
+      "url": "https://openalex.org/W2076507262",
+      "citedBy": 2052,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnature12107%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Advanced Fluorescence Microscopy Techniques",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Cell Image Analysis Techniques",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Single-cell and spatial transcriptomics",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 16,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W4210574564",
+      "title": "Optogenetics",
+      "year": 2010,
+      "doi": "https://doi.org/10.1038/nmeth.f.324",
+      "url": "https://openalex.org/W4210574564",
+      "citedBy": 1994,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Photoreceptor and optogenetics research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Advanced Fluorescence Microscopy Techniques",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature Methods",
+      "authorPosition": "first",
+      "corresponding": true,
+      "authorsCount": 1,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W1971797700",
+      "title": "Regulation of parkinsonian motor behaviours by optogenetic control of basal ganglia circuitry",
+      "year": 2010,
+      "doi": "https://doi.org/10.1038/nature09159",
+      "url": "https://openalex.org/W1971797700",
+      "citedBy": 1960,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnature09159%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Deep Brain Stimulation and Movement Disorders",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Parkinson's Disease Mechanisms and Treatments",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Motor Control and Adaptation",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 7,
+      "sampleReasons": [
+        "influential",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2050932531",
+      "title": "Optogenetics in Neural Systems",
+      "year": 2011,
+      "doi": "https://doi.org/10.1016/j.neuron.2011.06.004",
+      "url": "https://openalex.org/W2050932531",
+      "citedBy": 1945,
+      "type": "article",
+      "abstractSource": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.neuron.2011.06.004%22&format=json&resultType=core&pageSize=1",
+      "topics": [
+        {
+          "name": "Photoreceptor and optogenetics research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neural Engineering",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Neuron",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 5,
+      "sampleReasons": [
+        "influential",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7225381311",
+      "title": "Motivation-dependent communication between cortex and brainstem",
+      "year": 2026,
+      "doi": "https://doi.org/10.64898/2026.11.05.764652",
+      "url": "https://openalex.org/W7225381311",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7225381311",
+      "topics": [
+        {
+          "name": "Motor Control and Adaptation",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "authorPosition": "last",
+      "corresponding": false,
+      "authorsCount": 10,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7214019972",
+      "title": "Coevolutionary mining of prokaryotic non-coding elements with a genome language model",
+      "year": 2026,
+      "doi": "https://doi.org/10.64898/2026.09.22.753630",
+      "url": "https://openalex.org/W7214019972",
+      "citedBy": 4,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7214019972",
+      "topics": [
+        {
+          "name": "RNA and protein synthesis mechanisms",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Genomics and Phylogenetic Studies",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Bacterial Genetics and Biotechnology",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 13,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7213421814",
+      "title": "Developmental xenocortication using human-derived organoids in mice",
+      "year": 2026,
+      "doi": "https://doi.org/10.1038/s41586-026-11032-2",
+      "url": "https://openalex.org/W7213421814",
+      "citedBy": 6,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7213421814",
+      "topics": [
+        {
+          "name": "Neurogenesis and neuroplasticity mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Pluripotent Stem Cells Research",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neural Engineering",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 22,
+      "sampleReasons": [
+        "recent",
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7211986903",
+      "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
+      "year": 2026,
+      "doi": "https://doi.org/10.1038/s41586-026-10876-y",
+      "url": "https://openalex.org/W7211986903",
+      "citedBy": 15,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7211986903",
+      "topics": [
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Sleep and Wakefulness Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 25,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7211976934",
+      "title": "Hippocampo-septal inhibitory feedback controls the medial septal circuit as a function of brain state, pyramidal cell activity and movement speed",
+      "year": 2026,
+      "doi": "https://doi.org/10.64898/2026.09.03.749177",
+      "url": "https://openalex.org/W7211976934",
+      "citedBy": 0,
+      "type": "preprint",
+      "abstractSource": "https://openalex.org/W7211976934",
+      "topics": [
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 16,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7203714237",
+      "title": "Distinct properties of glutamate-dopamine, nonglutamate-dopamine, and glutamate-only ventral tegmental area neurons",
+      "year": 2026,
+      "doi": "https://doi.org/10.1126/scisignal.aee2028",
+      "url": "https://openalex.org/W7203714237",
+      "citedBy": 9,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7203714237",
+      "topics": [
+        {
+          "name": "Neurotransmitter Receptor Influence on Behavior",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neural and Behavioral Psychology Studies",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Science Signaling",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 20,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W3114251522",
+      "title": "Inferring brain-wide interactions using data-constrained recurrent neural network models",
+      "year": 2026,
+      "doi": "https://doi.org/10.1016/j.neuron.2026.07.016",
+      "url": "https://openalex.org/W3114251522",
+      "citedBy": 71,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W3114251522",
+      "topics": [
+        {
+          "name": "Neural dynamics and brain function",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Functional Brain Connectivity Studies",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Undergraduate Neuroscience Education and Research",
+          "field": "Social Sciences",
+          "domain": "Social Sciences"
+        }
+      ],
+      "venue": "Neuron",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 16,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W7171780568",
+      "title": "Rapid stereo-EEG network mapping enables personalized multinodal stimulation for refractory facial pain",
+      "year": 2026,
+      "doi": "https://doi.org/10.1016/j.brs.2026.103176",
+      "url": "https://openalex.org/W7171780568",
+      "citedBy": 1,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W7171780568",
+      "topics": [
+        {
+          "name": "Deep Brain Stimulation and Movement Disorders",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Pain Management and Treatment",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Transcranial Magnetic Stimulation Studies",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Brain stimulation",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 20,
+      "sampleReasons": [
+        "recent",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2155505956",
+      "title": "Optogenetic stimulation of a hippocampal engram activates fear memory recall",
+      "year": 2012,
+      "doi": "https://doi.org/10.1038/nature11028",
+      "url": "https://openalex.org/W2155505956",
+      "citedBy": 1775,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory Processes and Influences",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 7,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W2809368942",
+      "title": "Three-dimensional intact-tissue sequencing of single-cell transcriptional states",
+      "year": 2018,
+      "doi": "https://doi.org/10.1126/science.aat5691",
+      "url": "https://openalex.org/W2809368942",
+      "citedBy": 1597,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2809368942",
+      "topics": [
+        {
+          "name": "Single-cell and spatial transcriptomics",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Molecular Biology Techniques and Applications",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Genomics and Phylogenetic Studies",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Science",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 13,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W1977514547",
+      "title": "Natural Neural Projection Dynamics Underlying Social Behavior",
+      "year": 2014,
+      "doi": "https://doi.org/10.1016/j.cell.2014.05.017",
+      "url": "https://openalex.org/W1977514547",
+      "citedBy": 1401,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Neurotransmitter Receptor Influence on Behavior",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroendocrine regulation and behavior",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Cell",
+      "authorPosition": "last",
+      "corresponding": true,
+      "authorsCount": 14,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W2063210874",
+      "title": "Neural substrates of awakening probed with optogenetic control of hypocretin neurons",
+      "year": 2007,
+      "doi": "https://doi.org/10.1038/nature06310",
+      "url": "https://openalex.org/W2063210874",
+      "citedBy": 1368,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Sleep and Wakefulness Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience of respiration and sleep",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Circadian rhythm and melatonin",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": true,
+      "authorsCount": 5,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W2049134173",
+      "title": "CREB Phosphorylation and Dephosphorylation: A Ca2+- and Stimulus Duration–Dependent Switch for Hippocampal Gene Expression",
+      "year": 1996,
+      "doi": "https://doi.org/10.1016/s0092-8674(00)81816-4",
+      "url": "https://openalex.org/W2049134173",
+      "citedBy": 1141,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2049134173",
+      "topics": [
+        {
+          "name": "Signaling Pathways in Disease",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Memory and Neural Mechanisms",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neuropharmacology Research",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Cell",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 3,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W2212410734",
+      "title": "A skin-inspired organic digital mechanoreceptor",
+      "year": 2015,
+      "doi": "https://doi.org/10.1126/science.aaa9306",
+      "url": "https://openalex.org/W2212410734",
+      "citedBy": 891,
+      "type": "article",
+      "abstractSource": "https://openalex.org/W2212410734",
+      "topics": [
+        {
+          "name": "Advanced Sensor and Energy Harvesting Materials",
+          "field": "Engineering",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Tactile and Sensory Interactions",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Neuroscience and Neural Engineering",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Science",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 16,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": true
+    },
+    {
+      "id": "W1628979938",
+      "title": "Calmodulin supports both inactivation and facilitation of L-type calcium channels",
+      "year": 1999,
+      "doi": "https://doi.org/10.1038/20200",
+      "url": "https://openalex.org/W1628979938",
+      "citedBy": 891,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Ion channel regulation and function",
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "domain": "Life Sciences"
+        },
+        {
+          "name": "Cardiac electrophysiology and arrhythmias",
+          "field": "Medicine",
+          "domain": "Health Sciences"
+        },
+        {
+          "name": "Ion Channels and Receptors",
+          "field": "Neuroscience",
+          "domain": "Life Sciences"
+        }
+      ],
+      "venue": "Nature",
+      "authorPosition": "middle",
+      "corresponding": false,
+      "authorsCount": 5,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    },
+    {
+      "id": "W7167676552",
+      "title": "Genetically targeted photocatalytic organic dyes for spatiotemporally controlled organic synthesis in specific living cells",
+      "year": 2026,
+      "doi": "https://doi.org/10.1038/s41557-026-02195-6",
+      "url": "https://openalex.org/W7167676552",
+      "citedBy": 6,
+      "type": "article",
+      "abstractSource": null,
+      "topics": [
+        {
+          "name": "Radical Photochemical Reactions",
+          "field": "Chemistry",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Click Chemistry and Applications",
+          "field": "Chemistry",
+          "domain": "Physical Sciences"
+        },
+        {
+          "name": "Advanced Photocatalysis Techniques",
+          "field": "Energy",
+          "domain": "Physical Sciences"
+        }
+      ],
+      "venue": "Nature Chemistry",
+      "authorPosition": "middle",
+      "corresponding": true,
+      "authorsCount": 7,
+      "sampleReasons": [
+        "breadth",
+        "additional"
+      ],
+      "abstractWithheld": false
+    }
+  ],
+  "narrative": {
+    "schema": "scholar-portrait-0.1",
+    "field": {
+      "en": "Neuroscience and neural engineering, spanning optical control of circuits, tissue-clearing and spatial genomics, electrophysiology, and computational modeling",
+      "zh": "神经科学与神经工程，横跨环路光控、组织透明化与空间基因组学、电生理和计算建模"
+    },
+    "theme": {
+      "en": "Building the instrument that turns an untestable circuit hypothesis into a causal experiment",
+      "zh": "打造仪器，把无法检验的环路假说变成因果实验"
+    },
+    "lead": {
+      "en": "This work keeps returning to the same move: where a field can only observe, build a perturbational tool precise enough to make causal claims. Channelrhodopsin-2 delivery gave millisecond spike control; CLARITY made intact tissue optically readable; STARmap read transcripts in three dimensions; CURBD extracted directional interaction currents from multi-region recordings. Each step converts a descriptive question into a measurable, manipulable one, then immediately exercises it on real circuits.",
+      "zh": "这些研究反复回到同一个动作：当一个领域只能观察时，就造出足够精确的扰动工具，使因果论断成为可能。Channelrhodopsin-2 的递送实现了毫秒级放电控制；CLARITY 让完整组织变得光学可读；STARmap 在三维空间中读取转录本；CURBD 从多脑区记录中提取方向性相互作用电流。每一步都把描述性问题转化为可测量、可操控的问题，随即在真实环路上加以检验。"
+    },
+    "person": {
+      "name": {
+        "en": "Santiago Ramón y Cajal",
+        "zh": "圣地亚哥·拉蒙-卡哈尔"
+      },
+      "wikiTitle": "Santiago_Ramón_y_Cajal",
+      "connection": {
+        "en": "Cajal's intellectual signature was making the invisible visible and then using that visibility to settle disputes: improved staining revealed individual neurons and their arbors, from which he argued for the neuron doctrine. This work shares that sequence—construct a preparation that renders structure or activity legible, then let the new image adjudicate a mechanistic question, whether parvalbumin innervation generating gamma or long-range inhibition synchronizing cortex.",
+        "zh": "卡哈尔的智识标志是让不可见之物变得可见，再用这种可见性裁决争论：改良染色法显出单个神经元及其树突，他由此论证神经元学说。这些研究也沿着同样的次序：先造出一种使结构或活动变得可读的制备方法，再让新图像去裁决机制问题——无论是小清蛋白中间神经元产生伽马振荡，还是长程抑制同步化皮层。"
+      },
+      "paperIds": [
+        "W2047347093",
+        "W2076507262",
+        "W2809368942",
+        "W7211986903"
+      ],
+      "boundary": {
+        "en": "Cajal worked by static morphological observation and rarely intervened in living tissue; these papers deliberately perturb live systems and measure the response, a causal-experimental stance Cajal's fixed preparations could not supply.",
+        "zh": "卡哈尔依靠静态形态学观察，很少对活体组织施加干预；这些论文则刻意扰动活体系统并测量反应，这种因果实验立场是卡哈尔的固定标本难以提供的。"
+      }
+    },
+    "traits": [
+      {
+        "title": {
+          "en": "Tool first, then test",
+          "zh": "先造工具，再做检验"
+        },
+        "body": {
+          "en": "A technology paper and its applications are deliberately paired. The Channelrhodopsin-2 work establishes millisecond optical control; the accompanying circuit studies immediately use that control to dissociate cell types, showing that driving fast-spiking interneurons amplifies gamma while pyramidal activation does not. The instrument and the causal claim are designed together rather than borrowed from elsewhere.",
+          "zh": "技术论文与其应用被有意成对呈现。Channelrhodopsin-2 的研究确立了毫秒级光控；随后的环路研究立刻用这一控制区分细胞类型，显示驱动快速放电中间神经元会放大伽马振荡，而锥体细胞激活不能。仪器与因果论断是共同设计的，而非从别处借用。"
+        },
+        "paperIds": [
+          "W2167095271",
+          "W2149561999",
+          "W2047347093"
+        ]
+      },
+      {
+        "title": {
+          "en": "Preserving the whole while resolving the part",
+          "zh": "在保留整体的同时解析局部"
+        },
+        "body": {
+          "en": "A recurring engineering aim is high-resolution access without slicing the system apart. CLARITY turns intact brain into a transparent, macromolecule-permeable hydrogel so projections and circuitry remain in place; STARmap extends this into three-dimensional single-cell transcriptomics, mapping gene expression while retaining spatial anatomy. Both treat intactness as data, not an obstacle to be sectioned away.",
+          "zh": "一个反复出现的工程目标是在不把系统切片拆散的前提下获得高分辨率访问。CLARITY 把完整脑转变为透明、可被大分子渗透的水凝胶，使投射和环路保持原位；STARmap 将其扩展为三维单细胞转录组学，在映射基因表达的同时保留空间解剖。两者都把完整性当作数据，而非需要切片消除的障碍。"
+        },
+        "paperIds": [
+          "W2076507262",
+          "W2809368942"
+        ]
+      },
+      {
+        "title": {
+          "en": "Formal readouts that stay tied to behavior",
+          "zh": "始终紧扣行为的形式化读数"
+        },
+        "body": {
+          "en": "Computational analysis is introduced to sharpen, not replace, physiology. CURBD constrains recurrent network models with recorded data to infer directional inter-region currents across zebrafish, mice, macaques and humans; the cortico-medullary preprint couples multi-region recordings with optogenetic intervention and recurrent-network models to show that communication depends on motivational context. Modeling here answers a perturbation question.",
+          "zh": "计算分析被引入是为了使生理学更锐利，而非取代它。CURBD 用记录数据约束循环网络模型，推断斑马鱼、小鼠、猕猴和人类中脑区间的方向性电流；皮层-延髓预印本结合多区域记录、光遗传干预与循环网络模型，表明跨区通讯取决于动机情境。此处的建模回答的是一个扰动问题。"
+        },
+        "paperIds": [
+          "W3114251522",
+          "W7225381311",
+          "W7211976934"
+        ]
+      }
+    ],
+    "alternatives": [
+      {
+        "name": {
+          "en": "Willem Einthoven",
+          "zh": "威廉·埃因霍温"
+        },
+        "wikiTitle": "Willem_Einthoven",
+        "reason": {
+          "en": "A secondary angle: an instrument builder who made a faint physiological signal quantitatively legible (the string galvanometer and standardized electrocardiography) and thereby turned a clinical observation into a measurable trace. It resonates with the measurement engineering here but shares less of the causal-perturbation ambition.",
+          "zh": "次要切口：一位仪器制造者，使微弱的生理信号变得可定量读取（弦线电流计与标准化心电图），从而把临床观察转化为可测量的曲线。这与本研究的测量工程相呼应，但较少共享因果扰动这一抱负。"
+        },
+        "paperIds": [
+          "W2212410734",
+          "W1628979938"
+        ]
+      },
+      {
+        "name": {
+          "en": "Robert Hooke",
+          "zh": "罗伯特·胡克"
+        },
+        "wikiTitle": "Robert_Hooke",
+        "reason": {
+          "en": "A second secondary angle: Hooke coupled instrument-making with observation and mechanism, refining the microscope and recording what improved optics revealed. The kinship lies in the craft of preparation; the difference is that these papers intervene electrically and optogenetically rather than mainly describe.",
+          "zh": "第二个次要切口：胡克把仪器制造与观察、机制联系起来，改良显微镜并记录改进后的光学所揭示之物。亲缘性在于制备的技艺；差异在于这些论文以电学和光遗传方式干预，而主要不是描述。"
+        },
+        "paperIds": [
+          "W2076507262",
+          "W2167095271"
+        ]
+      }
+    ],
+    "scope": {
+      "en": "Evidence rests on twenty-four sampled works, mostly neuroscience, with seventeen abstracts; the engineering and chemistry items are few, so the instrument-building reading is strongest for the optogenetics and tissue-clearing lines.",
+      "zh": "证据来自抽样得到的二十四篇作品，以神经科学为主，其中十七篇有摘要；工程与化学条目较少，因此“造仪器”的解读在光遗传学与组织透明化两条线上最为有力。"
+    }
+  },
+  "generation": {
+    "mode": "ai",
+    "model": "deepseek-flash"
+  },
+  "historicalSources": [
+    {
+      "name": {
+        "en": "Santiago Ramón y Cajal",
+        "zh": "圣地亚哥·拉蒙-卡哈尔"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "Santiago Ramón y Cajal",
+        "url": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+        "wikidata": "Q150526",
+        "checkedAt": "2026-11-11T10:27:12.679Z"
+      }
+    },
+    {
+      "name": {
+        "en": "Willem Einthoven",
+        "zh": "威廉·埃因霍温"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "Willem Einthoven",
+        "url": "https://en.wikipedia.org/wiki/Willem_Einthoven",
+        "wikidata": "Q189488",
+        "checkedAt": "2026-11-11T10:27:12.974Z"
+      }
+    },
+    {
+      "name": {
+        "en": "Robert Hooke",
+        "zh": "罗伯特·胡克"
+      },
+      "status": "source-found",
+      "source": {
+        "title": "Robert Hooke",
+        "url": "https://en.wikipedia.org/wiki/Robert_Hooke",
+        "wikidata": "Q46830",
+        "checkedAt": "2026-11-11T10:27:12.946Z"
+      }
+    }
+  ],
+  "personProfile": {
+    "version": 2,
+    "qid": "Q150526",
+    "name": {
+      "en": "Santiago Ramón y Cajal",
+      "zh": "圣地亚哥·拉蒙-卡哈尔"
+    },
+    "introduction": {
+      "en": "Spanish scientist",
+      "zh": "西班牙神經科學家"
+    },
+    "birthYear": 1852,
+    "deathYear": 1934,
+    "notableWorks": [],
+    "awards": [
+      {
+        "name": {
+          "en": "The Nobel Prize in Physiology or Medicine",
+          "zh": "诺贝尔生理学或医学奖"
+        },
+        "motivation": {
+          "en": "in recognition of their work on the structure of the nervous system",
+          "zh": ""
+        },
+        "year": 1906,
+        "kind": "nobel",
+        "url": "https://www.nobelprize.org/prizes/medicine/1906/cajal/facts/",
+        "source": "NobelPrize.org"
+      },
+      {
+        "name": {
+          "en": "Helmholtz Medal",
+          "zh": ""
+        },
+        "year": 1904,
+        "url": "https://www.wikidata.org/wiki/Q1562616",
+        "source": "Wikidata",
+        "kind": "award"
+      },
+      {
+        "name": {
+          "en": "Medalla Plus Ultra",
+          "zh": ""
+        },
+        "year": 1926,
+        "url": "https://www.wikidata.org/wiki/Q6008353",
+        "source": "Wikidata",
+        "kind": "award"
+      }
+    ],
+    "sourceUrl": "https://www.wikidata.org/wiki/Q150526",
+    "portrait": {
+      "url": "/example-assets/Q150526.jpg",
+      "mime": "image/jpeg",
+      "width": 480,
+      "height": 677,
+      "file": "Cajal-mi.jpg",
+      "artist": "",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cajal-mi.jpg",
+      "originUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cajal-mi.jpg",
+      "title": "Cajal-mi",
+      "checkedAt": "2026-11-11T10:44:03.899Z"
+    },
+    "sourceStatus": {
+      "labels": "checked",
+      "nobel": "checked"
+    },
+    "biographyUrl": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+    "checkedAt": "2026-11-11T10:44:03.900Z",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q150526",
+      "https://api.nobelprize.org/2.1/laureates?name=Santiago+Ram%C3%B3n+y+Cajal&limit=20"
+    ],
+    "biographyFactsVersion": 1
+  },
+  "isExample": true
+}

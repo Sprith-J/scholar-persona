@@ -1,0 +1,68 @@
+[
+  {
+    "person": {
+      "en": "Santiago Ramón y Cajal",
+      "zh": "圣地亚哥·拉蒙-卡哈尔"
+    },
+    "qid": "Q150526",
+    "asset": "example-assets/Q150526.jpg",
+    "url": "/example-assets/Q150526.jpg",
+    "mime": "image/jpeg",
+    "width": 480,
+    "height": 677,
+    "file": "Cajal-mi.jpg",
+    "artist": "",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cajal-mi.jpg",
+    "originUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cajal-mi.jpg",
+    "title": "Cajal-mi",
+    "checkedAt": "2026-11-11T10:44:03.899Z",
+    "sha256": "f7c21fdf61a467d0e8b84ffd4c796f6f26a08cc4d9b458bfb60eef72b05bf272",
+    "displayChanges": "Displayed in grayscale with CSS; original file preserved."
+  },
+  {
+    "person": {
+      "en": "Har Gobind Khorana",
+      "zh": "哈爾·葛賓·科拉納"
+    },
+    "qid": "Q107462",
+    "asset": "example-assets/Q107462.jpg",
+    "url": "/example-assets/Q107462.jpg",
+    "mime": "image/jpeg",
+    "width": 480,
+    "height": 676,
+    "file": "Har Gobind Khorana.jpg",
+    "artist": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Har_Gobind_Khorana.jpg",
+    "originUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Har_Gobind_Khorana.jpg",
+    "title": "Har Gobind Khorana",
+    "checkedAt": "2026-11-11T10:44:05.118Z",
+    "sha256": "ef9d2678e44e701a3b18ead1b6cb9057cec2fb006350f393e5d807b681c4276c",
+    "displayChanges": "Displayed in grayscale with CSS; original file preserved."
+  },
+  {
+    "person": {
+      "en": "Joseph Fourier",
+      "zh": "约瑟夫·傅里叶"
+    },
+    "qid": "Q8772",
+    "asset": "example-assets/Q8772.jpg",
+    "url": "/example-assets/Q8772.jpg",
+    "mime": "image/jpeg",
+    "width": 480,
+    "height": 607,
+    "file": "Fourier2.jpg",
+    "artist": "Julien-Léopold Boilly",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fourier2.jpg",
+    "originUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fourier2.jpg/500px-Fourier2.jpg",
+    "title": "Portrait of Joseph Fourier",
+    "checkedAt": "2026-11-11T10:44:07.797Z",
+    "sha256": "f06ead41f96159ef0103cd982a83ba89c7d4a6990015f418371867fac2a921a1",
+    "displayChanges": "Displayed in grayscale with CSS; original file preserved."
+  }
+]
