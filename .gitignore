@@ -19,3 +19,34 @@ scripts/qa-live-generation.mjs
 scripts/qa-people.mjs
 scripts/qa-people-cold.mjs
 scripts/recover-call.mjs
+
+# Local planning and delivery tools
+Dockerfile
+.dockerignore
+.github/workflows/pages.yml
+docs/DEPLOYMENT*.md
+scripts/build-demo.mjs
+scripts/preview-demo.mjs
+scripts/qa-demo.mjs
+PRODUCT.md
+DESIGN.md
+.impeccable/
+
+# Generated bundles, media, model weights and raw datasets
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.mp4
+*.mov
+*.avi
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.tif
+*.tiff
+*.raw

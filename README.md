@@ -4,8 +4,6 @@ Who thinks like you?
 
 A small bilingual web app that connects a researcher's published work to a scientist, thinker, or maker from history. It looks for patterns in questions, methods, tools, and evidence, rather than matching research topics alone.
 
-[Explore the demo](https://sprith-j.github.io/scholar-persona/) · [中文发布指南](docs/DEPLOYMENT.md)
-
 ![Scholar Persona homepage](docs/images/home.png)
 
 ## The experience
@@ -33,23 +31,9 @@ npm start
 
 Open http://127.0.0.1:4180. The key is used only by the server. `OPENALEX_API_KEY` is optional. An existing local Codex DeepSeek bridge can also be used when no API key is set, but it is not required. To explore examples without generation, set `SCHOLAR_DISABLE_MODEL=1`.
 
-## Static showcase
+## Examples
 
-The [GitHub Pages demo](https://sprith-j.github.io/scholar-persona/) contains three selected, pre-generated public examples: Karl Deisseroth, Jennifer Doudna, and Terence Tao. It makes no model calls and has no live search form. Portraits and example data are served with the site.
-
-```sh
-npm run build:demo
-npm run preview:demo
-```
-
-Open http://127.0.0.1:4192. For hosting below a path, build and preview with the same base:
-
-```sh
-npm run build:demo -- --base=/scholar-persona/
-npm run preview:demo -- --base=/scholar-persona/
-```
-
-The included GitHub Actions workflow tests the project and deploys only this static showcase. It does not use API credentials.
+Three selected, pre-generated public examples are available from the homepage: Karl Deisseroth, Jennifer Doudna, and Terence Tao. Reading them makes no model calls. Each includes paper references, a historical portrait and its credit.
 
 ## How a portrait is made
 
@@ -71,11 +55,9 @@ Tests cover identity parsing, evidence references, corpus selection, Nobel ident
 
 `server.mjs` is a native Node HTTP server; `lib/` contains research retrieval, prompting, model transport, and historical enrichment; `public/` is a framework-free frontend. `scripts/export-examples.mjs` prepares only the examples explicitly listed in `public/examples.json` without calling the model.
 
-## Hosting and data
+## Local data
 
-For a live backend, see [the deployment guide](docs/DEPLOYMENT.md). A Dockerfile and standard `HOST`, `PORT`, `PUBLIC_ORIGIN`, and `SCHOLAR_DATA_DIR` settings are included. The current file-backed design fits a single Node instance with persistent storage. Public paid generation still needs access control, rate limits, and an approved operating budget before opening it to visitors.
-
-Private reports, model requests/responses, the local generation ledger, and credentials stay outside Git in `.data/` and `.env`. The development ledger has a 30-call cap; failed provider attempts count. Public samples omit full abstracts and private call metadata. Full reports are readable by anyone who has their UUID link unless a hosted deployment adds ownership checks.
+Private reports, model requests/responses, the local generation ledger, and credentials stay outside Git in `.data/` and `.env`. The development ledger has a 30-call cap; failed provider attempts count. Public samples omit full abstracts and private call metadata.
 
 ## Content credits
 
